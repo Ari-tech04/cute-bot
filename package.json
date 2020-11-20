@@ -9,12 +9,12 @@
   "author": "MrG3P5",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rakha21/sap-wa2.git"
+    "url": "https://github.com/Ari-tech04/cute-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/Rakha21/sap-wa2/issues"
+    "url": "https://github.com/Ari-tech04/cute-bot/issues"
   },
-  "homepage": "https://github.com/Rakha21/sap-wa2",
+  "homepage": "https://github.com/Ari-tech04/cute-bot",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.15",
